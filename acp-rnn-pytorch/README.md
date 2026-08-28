@@ -99,24 +99,4 @@ acp-rnn-pytorch/
 │
 ├── README.md
 ├── notebooks/
-│   └── acp_rnn.ipynb
-```
----
-
-## **How to Run**
-```
-pip install -r requirements.txt
-python src/train.py
-python src/evaluate.py
-```
-
----
-
-## **Biological Relevance**
-Anti‑cancer peptides are short amino‑acid sequences with therapeutic potential. Sequence‑based deep learning models can help identify ACPs by learning:
-
-- motif‑like patterns  
-- charge/hydrophobicity signals  
-- structural tendencies encoded in sequence  
-
-This project demonstrates how RNNs can model biological sequences effectively using PyTorch.
+    └── acp_rnn.ipynb

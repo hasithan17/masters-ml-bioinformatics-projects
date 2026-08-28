@@ -1,4 +1,4 @@
-# **Predicting Human Promoter Regions Using a 2D Convolutional Neural Network (BINF 761)**  
+# **Predicting Human Promoter Regions Using a 2D Convolutional Neural Network **  
 **Author:** Hasitha Nannapaneni  
 
 ---
@@ -94,29 +94,10 @@ These patterns emerged **without** handcrafted features, demonstrating the stren
 
 ---
 
-## **How to Run**
-```
-pip install -r requirements.txt
-python src/train.py
-python src/evaluate.py
-```
-
----
-
 ## **Project Structure**
 ```
 promoter-2dcnn-binf761/
 │
 ├── README.md
 ├── notebooks/
-│   └── promoter_2dcnn.ipynb
-├── src/
-│   ├── model.py
-│   ├── train.py
-│   ├── evaluate.py
-│   └── utils.py
-└── results/
-    ├── roc_curve.png
-    ├── confusion_matrix.png
-    └── training_curves.png
-```
+    └── promoter_2dcnn.ipynb

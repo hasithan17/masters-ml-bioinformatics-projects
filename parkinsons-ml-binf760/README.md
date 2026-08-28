@@ -1,4 +1,4 @@
-# **Predicting Parkinson’s Disease from Voice Biomarkers Using Machine Learning (BINF 760)**  
+# **Predicting Parkinson’s Disease from Voice Biomarkers Using Machine Learning**  
 **Author:** Hasitha Nannapaneni  
 
 ---
